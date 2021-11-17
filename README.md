@@ -25,9 +25,9 @@ This chart displays the trip duration in minutes. You can filter this chart by t
 
 4. Common Trip Duration by Gender
 
-<img width="1003" alt="Trip Duration by Gender" src="https://user-images.githubusercontent.com/88804543/142284343-1a26d363-a8af-4045-b5e1-2eb6b2258498.png">
+<img width="1002" alt="Trip Duration by Gender" src="https://user-images.githubusercontent.com/88804543/142285923-ad9b5644-3c38-4497-9e11-4f58e20c1a14.png">
 
-This chart is similar to the previous one, but it filters the trip duration data by gender: male, female, unknown. As we saw from the first story point, there are about 3 times more men using Citi Bikes, so this graph makes sense. Although there are more men riding the Citi Bikes, most trip durations regardless of gender are still less than 30 minutes.
+This chart is similar to the previous one, but it filters the trip duration data by gender: male, female, unknown. As we saw from the first story point, there are about 3 times more men using Citi Bikes. Although there are more men riding the Citi Bikes, most trip durations regardless of gender are still less than 30 minutes.
 
 5. Common Riding Times by Weekday
 
@@ -36,5 +36,16 @@ This chart is similar to the previous one, but it filters the trip duration data
 This heat map shows the start times of all of the rides on each day of the week: Sunday to Saturday. There are spikes in rides occuring from 7am - 9am, which is a typical time people to commute to work. There is another spike from 5pm -7pm, which is a common time people leave work. On Saturdays and Sundays, most people don't work and are free during the day, which is likely why there are more people riding in the middle of the day on the weekends.
 
 6. Common Riding Times by Weekday and Gender
+
+
+
+This chart
+
+
+
+
+
+
+
 
 
