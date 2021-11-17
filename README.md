@@ -1,4 +1,4 @@
-# NYC Citi Bike Analysis
+# August 2019 New York City (NYC) Citi Bike Analysis
 
 ## Project Overview
 The purpose of this project was to analyze the NYC Citi Bike data from August 2019; then utilize these key findings/trends to write a business proposal for a similar program in another city: Des Moines, Iowa.
