@@ -43,12 +43,15 @@ This heat map shows the start times of all of the rides on each day of the week:
 
 <img width="995" alt="Times by Weekday by Gender Unknown" src="https://user-images.githubusercontent.com/88804543/142286534-81c37fcf-b694-4134-8e2d-1bedd5d226b7.png">
 
-This heat map is similar to the previous one. It shows the riding times of all the rides on each day of the week, split up by gender (female, male, unknown). A very similar trend is between female and male is present: there are spikes in rides around the time people typically commute to and from work. For the unknown gender data, rides typically occur in the middle of the day on Saturday and Sunday.
+This heat map is similar to the previous one (#5). It shows the riding times of all the rides on each day of the week, split up by gender (female, male, unknown). A very similar trend is observed between female and male riders: there are spikes in rides around the time people typically commute to and from work. But for the unknown gender data, rides typically occur in the middle of the day on Saturday and Sunday.
 
+7. Common Riding Days by Gender and Usertype
 
+<img width="988" alt="Common Weekdays by Gender Usertype" src="https://user-images.githubusercontent.com/88804543/142287362-680413c8-1000-4662-b33f-97fd13112df0.png">
 
+This heat map shows the common weekdays rides occur filtered by gender (female, male, unknown) and usertype (customer, subscriber). A customer is a short term user and a subscriber has an annual subscription. There are more rides taken by subscribers than customers, which is consistent with the first story point, which showed there are 4 times more subscribers than customers.
 
-
+8. Popular Starting Stations
 
 
 
