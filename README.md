@@ -75,7 +75,7 @@ This bubble chart shows the location of ending points of all of the rides. The s
 
 ## Summary
 
-
+This analysis of the Citi Bike data from August 2019 in NYC provided key insights that will aid in writing a business proposal for a bikesharing business in Des Moines. Significantly more men utilize bikesharing, roughly 3 times more men than women are users. Most people tend to select an annual subscription, about 4 times more people are annual subscribers as compared to short term customers.
 
 
 
