@@ -3,6 +3,9 @@
 ## Project Overview
 The purpose of this project was to analyze the NYC Citi Bike data from August 2019; then utilize these key findings/trends to write a business proposal for a similar program in another city: Des Moines, Iowa.
 
+To access the NYC Citi Bike Analysis story: https://public.tableau.com/app/profile/jordan.levy7208/viz/NYCCitiBikeChallenge_16371713967990/NYCCitiBikeAnalysis?publish=yes
+
+
 ## Results
 
 1. NYC Citi Bike General Info
