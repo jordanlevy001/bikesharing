@@ -53,6 +53,13 @@ This heat map shows the common weekdays rides occur filtered by gender (female, 
 
 8. Popular Starting Stations
 
+<img width="1003" alt="Popular Starting Stations" src="https://user-images.githubusercontent.com/88804543/142287880-4154205b-fbee-420f-b3c8-479032987e00.png">
 
+This bubble chart shows the locations of the starting points of all of the rides. The size of each bubble is relative to the number of rides starting in that location. The darker the green each bubble is is relative to the number of rides starting in that location.
 
+9. Popular Ending Stations
+
+<img width="1006" alt="Popular Ending Stations" src="https://user-images.githubusercontent.com/88804543/142288388-b8792231-2665-4a8a-b2c6-9f51d1da9d36.png">
+
+This bubble chart shows the location of ending points of all of the rides. The size of each bubble is relative to the number of rides ending in that location. The darker the green each bubble is is relative to the number of rides ending in that location.
 
