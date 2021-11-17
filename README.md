@@ -5,7 +5,6 @@ The purpose of this project was to analyze the NYC Citi Bike data from August 20
 
 To access the NYC Citi Bike Analysis story: https://public.tableau.com/app/profile/jordan.levy7208/viz/NYCCitiBikeChallenge_16371713967990/NYCCitiBikeAnalysis?publish=yes
 
-
 ## Results
 
 1. NYC Citi Bike General Info
@@ -73,4 +72,10 @@ This bubble chart shows the locations of the starting points of all of the rides
 <img width="1006" alt="Popular Ending Stations" src="https://user-images.githubusercontent.com/88804543/142288388-b8792231-2665-4a8a-b2c6-9f51d1da9d36.png">
 
 This bubble chart shows the location of ending points of all of the rides. The size of each bubble is relative to the number of rides ending in that location. The darker the green each bubble is is relative to the number of rides ending in that location.
+
+## Summary
+
+
+
+
 
