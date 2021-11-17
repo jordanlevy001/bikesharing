@@ -11,7 +11,7 @@ To access the NYC Citi Bike Analysis story: https://public.tableau.com/app/profi
 
 <img width="665" alt="Gen Info" src="https://user-images.githubusercontent.com/88804543/142289074-3d7efc72-4e35-4bfa-89a1-ef7f89f85f34.png">
 
-This is the first story point that shows the total number of rides, the gender breakdown, usertype breakdown. It is helpful to have an understanding of how many people are using Citi Bikes. Furthermore, the gender breakdown is critical for this analysis, so this first storypoint provides the numbers of male/female/unknown users. There are 3 times more male users than female users. It also important to note that there are about 4 times more annual subscribers than short term customers.
+This first story point shows the total number of rides taken in August 2019 in NYC, the gender breakdown and usertype breakdown of the riders. It is helpful to have an understanding of how many people are using the Citi Bikes. Furthermore, the gender breakdown is critical for this analysis, so this first storypoint provides the numbers of male/female/unknown(gender) users. There are about 3 times more male users than female users. It also important to note that there are about 4 times more annual subscribers than short term customers. These numbers will help contextualize the content in the rest of the story.
 
 
 2. August Peak Hours
@@ -75,7 +75,6 @@ This bubble chart shows the location of ending points of all of the rides. The s
 
 ## Summary
 
-This analysis of the Citi Bike data from August 2019 in NYC provided key insights that will aid in writing a business proposal for a bikesharing business in Des Moines. Significantly more men utilize bikesharing, roughly 3 times more men than women are users. Most people tend to select an annual subscription, about 4 times more people are annual subscribers as compared to short term customers.
-
+This analysis of the Citi Bike data from August 2019 in NYC provided key insights that will aid in writing a business proposal for a bikesharing business in Des Moines. Significantly more men utilize bikesharing, roughly 3 times more men than women are users. Most people tend to select an annual subscription, about 4 times more people are annual subscribers as compared to short term customers. Both males and females utilize bikesharing to commute to and from work. Additionally, most trips taken on the bikes are under 30 minutes.
 
 
