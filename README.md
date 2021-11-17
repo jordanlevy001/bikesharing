@@ -11,4 +11,8 @@ The purpose of this project was to analyze the NYC Citi Bike data from August 20
 
 This is the first story point that shows the total number of rides, the gender breakdown, usertype breakdown. It is helpful to have an understanding of how many people are using Citi Bikes. Furthermore, the gender breakdown is critical for this analysis, so this first storypoint provides the numbers of male/female/unknown users. There are 3 times more male users than female users. It also important to note that there are about 4 times more annual subscribers than short term customers.
 
+2. August Peak Hours
 
+<img width="973" alt="August Peak Hours" src="https://user-images.githubusercontent.com/88804543/142275612-b2cb6609-98a7-488a-bf54-0fe39305a278.png">
+
+This bar graph shows the number of bikes in use at each hour of the day. This graph also provides insight 
