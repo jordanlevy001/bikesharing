@@ -18,14 +18,14 @@ This first story point shows the total number of rides taken in August 2019 in N
 
 <img width="973" alt="August Peak Hours" src="https://user-images.githubusercontent.com/88804543/142275612-b2cb6609-98a7-488a-bf54-0fe39305a278.png">
 
-This bar graph shows the number of bikes in use at each hour of the day. Peak usage occurs around 5pm to 7pm. This graph also provides insight for the ideal time for bike maintenance, the time when the usage is lowest.
+This bar graph shows the number of bikes in use at each hour of the day. Peak usage occurs around 5pm to 7pm. This graph also provides insight for the ideal time for bike maintenance, the time when the usage is lowest. The ideal time for bike maintenance is around 2am to 4am.
 
 
 3. Common Trip Duration
 
 <img width="1000" alt="Common Trip Duration" src="https://user-images.githubusercontent.com/88804543/142283995-a74fd88c-4b3a-4554-a2a9-cf12c09c2488.png">
 
-This chart displays the trip duration in minutes. You can filter this chart by the hour of the day. Most rides are under 30 minutes long.
+This chart displays the trip duration of every ride in minutes. You can filter this chart by the hour of the day. Most rides are under 30 minutes long.
 
 
 4. Common Trip Duration by Gender
@@ -57,24 +57,22 @@ This heat map is similar to the previous one (#5). It shows the riding times of 
 
 <img width="988" alt="Common Weekdays by Gender Usertype" src="https://user-images.githubusercontent.com/88804543/142287362-680413c8-1000-4662-b33f-97fd13112df0.png">
 
-This heat map shows the common weekdays rides occur filtered by gender (female, male, unknown) and usertype (customer, subscriber). A customer is a short term user and a subscriber has an annual subscription. There are more rides taken by subscribers than customers, which is consistent with the first story point, which showed there are 4 times more subscribers than customers.
+This heat map shows the common weekdays rides occur filtered by gender (female, male, unknown) and usertype (customer, subscriber). A customer is a short term user and a subscriber has an annual subscription. There are more rides taken by subscribers than customers, which is consistent with the first story point, which showed there are 4 times more subscribers than customers. Males utilize bikesharing on all days of the week, especially on Thursday and Friday. Females utilize bikesharing during the week (Monday - Friday). 
 
 
 8. Popular Starting Stations
 
 <img width="1003" alt="Popular Starting Stations" src="https://user-images.githubusercontent.com/88804543/142287880-4154205b-fbee-420f-b3c8-479032987e00.png">
 
-This bubble chart shows the locations of the starting points of all of the rides. The size of each bubble is relative to the number of rides starting in that location. The darker the green each bubble is is relative to the number of rides starting in that location.
+This chart shows the locations of the starting points of all of the rides. The size of each bubble is relative to the total number of rides. The darker the green each bubble is is relative to the total number of rides.
 
 
 9. Popular Ending Stations
 
 <img width="1006" alt="Popular Ending Stations" src="https://user-images.githubusercontent.com/88804543/142288388-b8792231-2665-4a8a-b2c6-9f51d1da9d36.png">
 
-This bubble chart shows the location of ending points of all of the rides. The size of each bubble is relative to the number of rides ending in that location. The darker the green each bubble is is relative to the number of rides ending in that location.
+This chart shows the location of ending points of all of the rides. The size of each bubble is relative to the total number of rides. The darker the orange each bubble is is relative to the total number of rides.
 
 ## Summary
 
-This analysis of the Citi Bike data from August 2019 in NYC provided key insights that will aid in writing a business proposal for a bikesharing business in Des Moines. Significantly more men utilize bikesharing, roughly 3 times more men than women are users. Most people tend to select an annual subscription, about 4 times more people are annual subscribers as compared to short term customers. Both males and females utilize bikesharing to commute to and from work. Additionally, most trips taken on the bikes are under 30 minutes.
-
-
+This analysis of the Citi Bike data from August 2019 in NYC provided key insights that will aid in writing a business proposal for a bikesharing business in Des Moines. Significantly more men utilize bikesharing, roughly 3 times more men than women are users. Most people tend to select an annual subscription, about 4 times more people are annual subscribers as compared to short term customers. Both males and females utilize bikesharing to commute to and from work during the week (Monday to Friday). Additionally, most trips taken on the bikes are under 30 minutes. People also use bikesharing during midday on weekends.
