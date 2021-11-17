@@ -27,7 +27,7 @@ This chart displays the trip duration in minutes. You can filter this chart by t
 
 <img width="1002" alt="Trip Duration by Gender" src="https://user-images.githubusercontent.com/88804543/142285923-ad9b5644-3c38-4497-9e11-4f58e20c1a14.png">
 
-This chart is similar to the previous one, but it filters the trip duration data by gender: male, female, unknown. As we saw from the first story point, there are about 3 times more men using Citi Bikes. Although there are more men riding the Citi Bikes, most trip durations regardless of gender are still less than 30 minutes.
+This chart is similar to the previous one, but it filters the trip duration data by gender: male, female, unknown. As we saw from the first story point, there are about 3 times more men using Citi Bikes. Although there are more men riding the Citi Bikes, most trip durations regardless of gender are still less than 30 minutes. You can filter this chart by gender and/or hour of the day.
 
 5. Common Riding Times by Weekday
 
@@ -37,9 +37,13 @@ This heat map shows the start times of all of the rides on each day of the week:
 
 6. Common Riding Times by Weekday and Gender
 
+<img width="1000" alt="Times by Weekday by Gender Female" src="https://user-images.githubusercontent.com/88804543/142286516-648bd22f-716c-4d78-81cd-dc94f223d8e5.png">
 
+<img width="1000" alt="Times by Weekday by Gender Male" src="https://user-images.githubusercontent.com/88804543/142286526-15c96656-b512-4e81-ae75-37371a935d81.png">
 
-This chart
+<img width="995" alt="Times by Weekday by Gender Unknown" src="https://user-images.githubusercontent.com/88804543/142286534-81c37fcf-b694-4134-8e2d-1bedd5d226b7.png">
+
+This heat map is similar to the previous one. It shows the riding times of all the rides on each day of the week, split up by gender (female, male, unknown). A very similar trend is between female and male is present: there are spikes in rides around the time people typically commute to and from work. For the unknown gender data, rides typically occur in the middle of the day on Saturday and Sunday.
 
 
 
