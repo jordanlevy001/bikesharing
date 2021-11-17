@@ -15,4 +15,18 @@ This is the first story point that shows the total number of rides, the gender b
 
 <img width="973" alt="August Peak Hours" src="https://user-images.githubusercontent.com/88804543/142275612-b2cb6609-98a7-488a-bf54-0fe39305a278.png">
 
-This bar graph shows the number of bikes in use at each hour of the day. This graph also provides insight 
+This bar graph shows the number of bikes in use at each hour of the day. Peak usage occurs around 5pm to 7pm. This graph also provides insight for the ideal time for bike maintenance, the time when the usage is lowest.
+
+3. Common Trip Duration
+
+<img width="1000" alt="Common Trip Duration" src="https://user-images.githubusercontent.com/88804543/142283995-a74fd88c-4b3a-4554-a2a9-cf12c09c2488.png">
+
+This chart displays the trip duration in minutes. You can filter this chart by the hour of the day. Most rides are under 30 minutes long.
+
+4. Common Trip Duration by Gender
+
+<img width="1003" alt="Trip Duration by Gender" src="https://user-images.githubusercontent.com/88804543/142284343-1a26d363-a8af-4045-b5e1-2eb6b2258498.png">
+
+This chart is similar to the previous one, but it splits the trip duration data by gender: male, female, unknown.
+
+
