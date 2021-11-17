@@ -76,3 +76,6 @@ This chart shows the location of ending points of all of the rides. The size of 
 ## Summary
 
 This analysis of the Citi Bike data from August 2019 in NYC provided key insights that will aid in writing a business proposal for a bikesharing business in Des Moines. Significantly more men utilize bikesharing, roughly 3 times more men than women are users. Most people tend to select an annual subscription, about 4 times more people are annual subscribers as compared to short term customers. Both males and females utilize bikesharing to commute to and from work during the week (Monday to Friday). Additionally, most trips taken on the bikes are under 30 minutes. People also use bikesharing during midday on weekends.
+
+In the future, some additional visualizations might be helpful. First, it would be helpful to look at all of the months within 2019 to examine larger trends. It would be interesting to analyze if the peak usage hours change throughout the year or hold consistent. This would require us to look at all of the bikesharing records and the ride starting time hour. Second, we could look at trip duration and individual bicycles to determine how many miles have been ridden on each bike. This would help us determine which bikes require preventative maintenance or repairs.
+
